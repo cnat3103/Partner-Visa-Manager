@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Partner-Visa-Mangager/static/css/main.48d2f796.chunk.css",
-    "main.js": "/Partner-Visa-Mangager/static/js/main.3624bca7.chunk.js",
-    "main.js.map": "/Partner-Visa-Mangager/static/js/main.3624bca7.chunk.js.map",
+    "main.js": "/Partner-Visa-Mangager/static/js/main.cb63ee8d.chunk.js",
+    "main.js.map": "/Partner-Visa-Mangager/static/js/main.cb63ee8d.chunk.js.map",
     "runtime-main.js": "/Partner-Visa-Mangager/static/js/runtime-main.d0cde485.js",
     "runtime-main.js.map": "/Partner-Visa-Mangager/static/js/runtime-main.d0cde485.js.map",
     "static/css/2.58545ea1.chunk.css": "/Partner-Visa-Mangager/static/css/2.58545ea1.chunk.css",
-    "static/js/2.59fdccd4.chunk.js": "/Partner-Visa-Mangager/static/js/2.59fdccd4.chunk.js",
-    "static/js/2.59fdccd4.chunk.js.map": "/Partner-Visa-Mangager/static/js/2.59fdccd4.chunk.js.map",
+    "static/js/2.3243813d.chunk.js": "/Partner-Visa-Mangager/static/js/2.3243813d.chunk.js",
+    "static/js/2.3243813d.chunk.js.map": "/Partner-Visa-Mangager/static/js/2.3243813d.chunk.js.map",
     "index.html": "/Partner-Visa-Mangager/index.html",
-    "precache-manifest.46e0deda6807339f104fb5168c70f8ed.js": "/Partner-Visa-Mangager/precache-manifest.46e0deda6807339f104fb5168c70f8ed.js",
+    "precache-manifest.31e011e2fa1e382853fd42034ce06815.js": "/Partner-Visa-Mangager/precache-manifest.31e011e2fa1e382853fd42034ce06815.js",
     "service-worker.js": "/Partner-Visa-Mangager/service-worker.js",
     "static/css/2.58545ea1.chunk.css.map": "/Partner-Visa-Mangager/static/css/2.58545ea1.chunk.css.map",
     "static/css/main.48d2f796.chunk.css.map": "/Partner-Visa-Mangager/static/css/main.48d2f796.chunk.css.map",
-    "static/js/2.59fdccd4.chunk.js.LICENSE.txt": "/Partner-Visa-Mangager/static/js/2.59fdccd4.chunk.js.LICENSE.txt"
+    "static/js/2.3243813d.chunk.js.LICENSE.txt": "/Partner-Visa-Mangager/static/js/2.3243813d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d0cde485.js",
     "static/css/2.58545ea1.chunk.css",
-    "static/js/2.59fdccd4.chunk.js",
+    "static/js/2.3243813d.chunk.js",
     "static/css/main.48d2f796.chunk.css",
-    "static/js/main.3624bca7.chunk.js"
+    "static/js/main.cb63ee8d.chunk.js"
   ]
 }

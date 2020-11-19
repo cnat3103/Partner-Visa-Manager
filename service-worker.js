@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Partner-Visa-Mangager/precache-manifest.46e0deda6807339f104fb5168c70f8ed.js"
+  "/Partner-Visa-Mangager/precache-manifest.31e011e2fa1e382853fd42034ce06815.js"
 );
 
 self.addEventListener('message', (event) => {
