@@ -20,7 +20,7 @@ A react app that allows the user to view the list of documents required for an A
 ## Installation
 The user can access the application via the GitHub Pages link here:
 
-https://cnat3103.github.io/My-Partner-Visa
+https://cnat3103.github.io/Partner-Visa-Manager
 
 Alternatively, the user can fork the repository, install the necessary dependencies by running the npm i command via the user's command line, and run the app using the npm start command.
 
