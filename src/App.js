@@ -8,7 +8,6 @@ import Home from './components/Home'
 import Navbar from './components/Navbar';
 import Docs from './pages/Docs';
 import News from './components/News';
-import SimpleForm from './components/SimpleForm';
 import './App.css';
 
 

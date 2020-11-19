@@ -1,7 +1,7 @@
-# 19-Employee-Tracker
+# My Partner Visa Manager
 
 ## Description
-A react app that allows the user to view the entire employee directory at once so that the User has quick access to their information
+A react app that allows the user to view the list of documents required for an Australian partner visa, and provides guidance on the nature of the documents and where to locate them.
 
 ## Preview
 ![Preview](ETPreview.png)
