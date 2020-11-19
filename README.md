@@ -4,7 +4,7 @@
 A react app that allows the user to view the list of documents required for an Australian partner visa, and provides guidance on the nature of the documents and where to locate them.
 
 ## Preview
-![Preview](ETPreview.png)
+![Preview](MPVPreview.png)
 
 ## Badges
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -20,7 +20,7 @@ A react app that allows the user to view the list of documents required for an A
 ## Installation
 The user can access the application via the GitHub Pages link here:
 
-https://cnat3103.github.io/19-Employee-Directory
+https://cnat3103.github.io/My-Partner-Visa
 
 Alternatively, the user can fork the repository, install the necessary dependencies by running the npm i command via the user's command line, and run the app using the npm start command.
 
@@ -31,7 +31,7 @@ The application is simple to use - we would encourage anyone experiencing diffic
 MIT license
 
 ## Contribution
-The design and content of the application is derived from a review of material provided by Trilogy Education Service in Unit 19 and youtube content available here for the deploy: https://www.youtube.com/watch?v=1wDzEjXbblM.
+Number of online resources assisted in producing this.
 
 ## Collaborators
 There are many ways in which you can participate in the project, for example:
